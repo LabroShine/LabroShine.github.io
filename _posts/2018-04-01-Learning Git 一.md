@@ -1,13 +1,4 @@
-<<<<<<< HEAD
 ---
-=======
-<<<<<<< HEAD
----
-=======
-<<<<<<< HEAD
-﻿---
->>>>>>> 73522dbd8dc301e6c9501004058fa31c29c46894
->>>>>>> refs/remotes/origin/master
 layout: post
 title: learning Git step by step(一)
 date: 2018-04-01 
@@ -353,5 +344,3 @@ tags: Git
 git --version       
 ```
 &emsp;&emsp;安装好 Git 后，接下来就是学习如何去使用 Git 了。
->>>>>>> 75bc95b7d2d417dd54260b0ba907d00547423875
->>>>>>> d7d528a238be4c64e111f8e58820755eebc220b8
